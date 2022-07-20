@@ -1734,12 +1734,12 @@ case 'allmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑',
-                                    url: 'https://wa.me/212605784394'
+                                    url: 'https://wa.me/966536262789'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    url: 'https://instagram.com/abuturki.65'
                                 }
                             }]
                         }
@@ -1761,8 +1761,8 @@ break
 
 ʙᴏʙɪᴢ ʙᴏᴛ ʙʏ ɴᴏᴜʀᴇᴅᴅɪɴᴇ ᴏᴜᴀꜰʏ
  
-✘ سيتم حظر كل من يستعمل البوت بشكل خاطئ أسعى دائما أن اقدم لكم بوتات جميلة لذا انتم كذلك ساعدوني فقط باتباع كلامي ♥ انا في خدمتكم
-https://instagram.com/noureddine_ouafy
+✘ سيتم حظر كل من يستعمل البوت بشكل خاطئ نا في خدمتكم
+https://instagram.com/abuturki.65
 
 ✘ 𝑹𝒖𝒏𝒕𝒊𝒎𝒆: ${runtime(process.uptime())}
 `
@@ -1770,13 +1770,13 @@ https://instagram.com/noureddine_ouafy
 
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'قناتي على اليوتوب',
-                                    url: 'https://youtube.com/noureddineouafy'
+                                    displayText: 'مطور البوت',
+                                    url: 'https://wa.me/966536262789'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'انستغرامي',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    url: 'https://instagram.com/abuturki.65'
                                 }
                             }, {
                                 quickReplyButton: {
