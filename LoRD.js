@@ -27,7 +27,7 @@ const fvid = {
 	 key: { 
           fromMe: false,
 	      participant: "0@s.whatsapp.net", 
-	     remoteJid: "120363040549014341@g.us" 
+	     remoteJid: "966536262789@g.us" 
                 },
 	 message: { 
                  "videoMessage": { 
@@ -63,40 +63,9 @@ const lordofc = {
 
 //tod Link
  const todlink =[
-'https://youtu.be/IiYRFELAC0s',
-'https://youtu.be/bNoFWGc1iJ0',
-'https://youtu.be/DKm8Fg7dAp0',
-'https://youtu.be/PagvjtVfsPk',
-'https://youtu.be/CQLgEvxPs2w',
-'https://youtu.be/MsLnLxxjzPE',
-'https://youtu.be/YkDCqgk-QZY',
-'https://youtu.be/RGihGa5eAA8',
-'https://youtu.be/YkDCqgk-QZY',
-'https://youtu.be/KCOdjVN-x64',
-'https://youtu.be/6t_fdHhFrTg',
-'https://youtu.be/xzu_ODGpCRs',
-'https://youtu.be/Rz1diG58Rhs',
-'https://youtu.be/umQDV0UHUsQ',
-'https://youtu.be/W3m3yKpMTDg',
-'https://youtu.be/jRDJv5lfiH0',
-'https://youtu.be/FjdUiHW5JpQ',
-'https://youtu.be/i3OgJLwB2lc',
-'https://youtu.be/r1_EDhYbsHA',
-'https://youtu.be/MsLnLxxjzPE',
-'https://youtu.be/JWHV8lPTzPs',
-'https://youtu.be/EjVcqMknvUU',
-'https://youtu.be/2iCEd94TZ4o',
-'https://youtu.be/S8F2L3v10mA',
-'https://youtu.be/xvRWA9_18So',
-'https://youtu.be/sSynIGIVjUs',
-'https://youtu.be/E6NQYmO2qbA',
-'https://youtu.be/usY2mQGtpyw',
-'https://youtu.be/dMPnLAXAOBY',
-'https://youtu.be/b0md2fEIFpg',
-'https://youtu.be/e08eDavj0oI',
-'https://youtu.be/IYo8iXPCmgQ',
-'https://youtu.be/iuHy1fHikVo',
-'https://youtu.be/TwbhA23jSsw',
+'ممنوع',
+'ممنوع',
+'ممنوع',
 ]
 let tod = todlink[Math.floor(Math.random() * (todlink.length))]
 
@@ -419,16 +388,16 @@ Selama ${clockString(new Date - user.afkTime)}
             }
             break	
     
-    case 'sc': 
-    case 'script':
-    case 'git':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','𝑴𝒆𝒏𝒖','369AubXZk','*──「\x20𝐋𝐨𝐑𝐃-𝐌𝐃\x20」──*\x0a\x0a❑\x20http://github.com/Lord-official/LoRD-MD\x0a\x0a❑\x20𝑫𝒐𝒏𝒕\x20𝑭𝒐𝒓𝒈𝒆𝒕\x20𝑻𝒐\x20𝑮𝒊𝒗𝒆\x20𝑺𝒕𝒂𝒓\x20🐦','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'𝑶𝒘𝒏𝒆𝒓'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
+    case '|': 
+    case '|':
+    case '|':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','𝑴𝒆𝒏𝒖','369AubXZk','*──「\x20𝐋𝐨𝐑𝐃-𝐌𝐃\x20」──*\x0a\x0a❑\x20http://github.com/Lord-official/LoRD-MD\x0a\x0a❑\x20𝑫𝒐𝒏𝒕\x20𝑭𝒐𝒓𝒈𝒆𝒕\x20𝑻𝒐\x20𝑮𝒊𝒗𝒆\x20𝑺𝒕𝒂𝒓\x20🐦','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'𝑶𝒘𝒏𝒆𝒓'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
             break
 
                 case 'tqto': case 'credits': case 'credit': case 'hehe':const _0xe59b5=_0xb90d;function _0xb90d(_0x1720b0,_0x4e108b){const _0x2d632e=_0x2d63();return _0xb90d=function(_0xb90d1a,_0x5c3732){_0xb90d1a=_0xb90d1a-0x85;let _0x53cff1=_0x2d632e[_0xb90d1a];return _0x53cff1;},_0xb90d(_0x1720b0,_0x4e108b);}(function(_0x2258f9,_0x22c09d){const _0x55fb99=_0xb90d,_0x134760=_0x2258f9();while(!![]){try{const _0x47fd03=-parseInt(_0x55fb99(0x95))/0x1*(parseInt(_0x55fb99(0x92))/0x2)+parseInt(_0x55fb99(0x90))/0x3*(-parseInt(_0x55fb99(0x88))/0x4)+parseInt(_0x55fb99(0x93))/0x5*(parseInt(_0x55fb99(0x86))/0x6)+parseInt(_0x55fb99(0x87))/0x7*(-parseInt(_0x55fb99(0x8f))/0x8)+-parseInt(_0x55fb99(0x85))/0x9*(parseInt(_0x55fb99(0x94))/0xa)+parseInt(_0x55fb99(0x91))/0xb+parseInt(_0x55fb99(0x8a))/0xc;if(_0x47fd03===_0x22c09d)break;else _0x134760['push'](_0x134760['shift']());}catch(_0x47c747){_0x134760['push'](_0x134760['shift']());}}}(_0x2d63,0x2b070));{anu=_0xe59b5(0x8c);let btn=[{'urlButton':{'displayText':'𝑮𝒊𝒕𝒉𝒖𝒃','url':_0xe59b5(0x8e)}},{'urlButton':{'displayText':'𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑','url':_0xe59b5(0x8d)}}];hisoka['send5ButImg'](m[_0xe59b5(0x89)],anu,hisoka[_0xe59b5(0x96)][_0xe59b5(0x8b)],global[_0xe59b5(0x97)],btn);}function _0x2d63(){const _0xa4c00=['1438730WnGuQT','2eTGRPG','user','thumb','9rSasmw','1876818otGEcB','12887POUTvZ','4QkKnHg','chat','8863056FUStno','name','\x0a*𝑩𝑰𝑮\x20𝑻𝑯𝑨𝑵𝑲𝑺\x20𝑻𝑶*\x0a\x0a𝑫𝒆𝒗𝒊𝒍:\x20\x0ahttps://github.com/D-3-V-1-L\x0a𝑫𝒆𝒏𝒊𝒔:\x20\x0ahttps://github.com/Whatsden\x0a𝑵𝒆𝒆𝒓𝒂𝒋:\x20\x0ahttps://github.com/Neeraj-x0\x0a𝑨𝒋𝒎𝒂𝒍:\x20\x0ahttps://github.com/Ajmal-Achu','https://wa.me/919778383987','https://github.com/Lord-official','1528mFFFjb','461499LSWgMA','1197768zIOEdv','334702ZNsdyG','5evTxhA'];_0x2d63=function(){return _0xa4c00;};return _0x2d63();}
             break
 		case 'runtime': {
 
-replay(`𝑹𝒖𝒏𝒕𝒊𝒎𝒆: ${runtime(process.uptime())}`)
+replay(`مدة عمل البوت: ${runtime(process.uptime())}`)
 }
 break 
             case 'chat': {
@@ -876,7 +845,7 @@ break
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'صاحبه',
+                                    displayText: 'المطور',
                                     id: 'owner'
                                 }  
                             }, {
@@ -900,13 +869,13 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'قناتي',
-                                    url: 'https://youtube.com/c/NoureddineOuafy '
+                                    displayText: 'المطور',
+                                    url: 'https://wa.me/966536262789 '
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'انستغرامي',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    url: 'https://instagram.com/abuturki.65'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1615,9 +1584,9 @@ case 'menulist':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `مرحبا عزيزي ${pushname} \nهذه لائحة الاوامر `,
-                    description: `😄😉`,
+                    description: `الخاصة بك`,
                     buttonText: "Menu",
-                    footerText: "@noureddine_ouafy",
+                    footerText: "تم تطويره من abuturki",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "BOBIZ BOT BY NOUREDDINE OUAFY",
@@ -1666,11 +1635,6 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 											"title": "صاحب البوت اوامر",
 										"description": "",
 										"rowId": `ownermenu`
-										},
-										{
-											"title": "سكريبت البوت♥",
-										"description": "ʟᴏʀᴅ-ᴍᴅ 𝑔𝑖𝑡",
-										"rowId": `sc`
 										}
 								]
 							}
@@ -1716,13 +1680,13 @@ case 'allmenu': {
 
 
 🚫 *أوامر خاصة بصاحب البوت*🚫
-🌼 ${prefix}𝑐ℎ𝑎𝑡 [𝒐𝒑𝒕𝒊𝒐𝒏]
-🌼 ${prefix}𝑗𝑜𝑖𝑛 [𝒍𝒊𝒏𝒌]
+🌼 ${prefix}𝑐ℎ𝑎𝑡 [خيارات]
+🌼 ${prefix}𝑗𝑜𝑖𝑛 [رابط]
 🌼 ${prefix}𝑙𝑒𝑎𝑣𝑒
-🌼 ${prefix}𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
-🌼 ${prefix}𝑢𝑛𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
-🌼 ${prefix}𝑏𝑐𝑔𝑟𝑜𝑢𝑝 [𝒕𝒆𝒙𝒕]
-🌼 ${prefix}𝑠𝑒𝑡𝑏𝑜𝑡𝑝𝑝 [𝒊𝒎𝒂𝒈𝒆]
+🌼 ${prefix}𝑏𝑙𝑜𝑐𝑘 @اليوزر
+🌼 ${prefix}𝑢𝑛𝑏𝑙𝑜𝑐𝑘 @اليوزر
+🌼 ${prefix}𝑏𝑐𝑔𝑟𝑜𝑢𝑝 [نص]
+🌼 ${prefix}𝑠𝑒𝑡𝑏𝑜𝑡𝑝𝑝 [صورة]
 🌼 ${prefix}𝑠𝑒𝑡𝑒𝑥𝑖𝑓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
