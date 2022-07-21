@@ -1643,7 +1643,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 }
             }), {})
             hisoka.relayMessage(m.chat, template.message, { messageId: template.key.id })
-            const lordser = fs.readFileSync('./src/bobizbot.mp3') 
+            const lordser = fs.readFileSync('./src/abuturki.mp4') 
            hisoka.sendMessage(m.chat, { audio: lordser, mimetype: 'audio/mp4', ptt: true, quoted: fvid })
             }
             break
