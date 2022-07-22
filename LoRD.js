@@ -1644,7 +1644,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }), {})
             hisoka.relayMessage(m.chat, template.message, { messageId: template.key.id })
             const lordser = fs.readFileSync('./src/abuturki.mp4') 
-           hisoka.sendMessage(m.chat, { audio: lordser, mimetype: 'audio/mp4', ptt: true, quoted: fvid })
+           hisoka.sendMessage(m.chat, { audio: lordser, mimetype: 'video/mp4', ptt: true, quoted: fvid })
             }
             break
 case 'allmenu': {
@@ -1754,8 +1754,8 @@ https://instagram.com/abuturki.65
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'شكرا ل 🌼',
-                                    id: 'hehe'
+                                    displayText: 'شكرا لإستخدامك البوت 🌼',
+                                    id: 'm'
                                 }
                             }]
           
